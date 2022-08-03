@@ -438,11 +438,11 @@ int main(void)
 
 
 
-  while(HAL_GPIO_ReadPin(GPIOF,GPIO_PIN_12) && HAL_GPIO_ReadPin(GPIOF,GPIO_PIN_13));
+//  while(HAL_GPIO_ReadPin(GPIOF,GPIO_PIN_12) && HAL_GPIO_ReadPin(GPIOF,GPIO_PIN_13));
 
-  Motor_Init();
-  Origin_Motor();
-  while(Origin_Flag);
+//  Motor_Init();
+//  Origin_Motor();
+//  while(Origin_Flag);
 /*  Origin_Motor_A();
   while(Busy_Flag_Origin_AB);*/
 
