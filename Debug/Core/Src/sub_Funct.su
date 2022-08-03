@@ -1,0 +1,4 @@
+../Core/Src/sub_Funct.c:53:6:count_Total_Point	16	static
+../Core/Src/sub_Funct.c:69:6:sd_Data_Handle	40	static
+../Core/Src/sub_Funct.c:254:6:output_Display	8	static
+../Core/Src/sub_Funct.c:315:6:reset_Value	16	static

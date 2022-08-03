@@ -1,0 +1,7 @@
+../Core/Src/Control_Step_Motor.c:158:6:Motor_Init	16	static
+../Core/Src/Control_Step_Motor.c:188:6:Origin_Motor	8	static
+../Core/Src/Control_Step_Motor.c:204:6:TIM5_IRQHandler	8	static
+../Core/Src/Control_Step_Motor.c:828:6:Move_XYZ_ABC	48	static
+../Core/Src/Control_Step_Motor.c:1061:6:TIM4_IRQHandler	8	static
+../Core/Src/Control_Step_Motor.c:1664:6:Origin_Motor_A	8	static
+../Core/Src/Control_Step_Motor.c:1684:6:TIM15_IRQHandler	8	static
